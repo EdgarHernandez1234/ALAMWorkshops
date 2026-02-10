@@ -1,5 +1,5 @@
 # Github
-So this is the ALAM 2025-2026 cohort hosted by Edgar, an aspiring Embedded Systems/ Systems Engineer at the time writing this. I decided to tailor this Github rundown of knowledge that could help both my current team as well as future cohorts who join as ISAM sub-contractors. 
+So this is the ALAM 2025-2026 cohort hosted by Edgar, an aspiring Embedded Systems/ Systems Engineer at the time of writing this. I decided to tailor this Github rundown of knowledge that could help both my current team as well as future cohorts who join as ISAM sub-contractors. 
 
 What this Workshop will cover:
 * Git Tag

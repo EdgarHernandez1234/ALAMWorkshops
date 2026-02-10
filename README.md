@@ -16,7 +16,7 @@ The name is a placeholder so replace it it what you want then you use:
 ``` bash
 git switch name
 ```
-I've mentioned the shell commands if you are familiar with it, but you can also make a new branch using the github UI. You see the branch button that says Github on this repo? The one next to 2 Branches, click that and there should appear an option for a new branch. You can do that and then you git pull and then use git switch.
+I've mentioned the shell commands if you are familiar with it, but you can also make a new branch using the github UI. You see the branch button that says Github on this repo? The one next to 2 Branches, click that and there should appear an option for a new branch. You can do that and then you git pull and then use git switch. You'd do this on your own repo of course.
 
 
 ## Git Tag

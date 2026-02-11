@@ -23,8 +23,11 @@ I've mentioned the shell commands if you are familiar with terminal, but you can
 Simply put, its pretty much a bookmark of all of your final code for whatever you plan to use it for. Say you made a program to make an automated coffee machine and you've made sure it works 100%. You can git tag it to bring the code contents you had that made it work that 100%. So I'll walk through how to make a git tag by using simple calculator program in Java. You're supposed to work in increments but for the sake of this workshop, I've generated it and it works for what it does. So now that it's done, before I push to Github, I use:
 
 ``` bash
-git add example.java
-git commit -m "works"
-git tag ver1.0
+git add example.java # usual add 
+git commit -m "works" # Usual commit 
+git tag ver1.0 # Tagging the final code for the calculator program
+git push # Pushing the code first
+git push --tags # Pushing the tagged code
 ```
+This is the final version of the code
 

@@ -29,5 +29,4 @@ git tag ver1.0 # Tagging the final code for the calculator program
 git push # Pushing the code first
 git push --tags # Pushing the tagged code
 ```
-This is the final version of the code
-
+This is the final version of the code. And since its on a separate branch, it will tag the branch.
